@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Running_Assistant</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="run_tracker">Run tracker</string>
+    <string name="run_calculator">Run calculator</string>
+    <string name="m">M+</string>
+    <string name="h">H+</string>
+    <string name="_0">0</string>
+    <string name="back">Back</string>
+    <string name="pace_speed">Pace: Speed:</string>
+    <string name="calculate">Calculate</string>
+    <string name="s">S</string>
+    <string name="reset">Reset</string>
+    <string name="finish">Finish</string>
+    <string name="start">Start</string>
+    <string name="not_traking">Not Traking</string>
+</resources>
